@@ -1,0 +1,12 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# 忽略大文件
+#kxy实验/实验4/untitled/project-files/dynamips/c7200-adventerprisek9-mz.153-3.image-512.ghost
+#答案_书_实验材料/*.pdf

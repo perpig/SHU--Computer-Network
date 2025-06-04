@@ -1,0 +1,19 @@
+Oct 25 05:56:51.166 HYPERVISOR: Release 0.2.23-amd64/Darwin (tag 2023010200)
+Oct 25 05:56:51.167 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 53109.
+Oct 25 05:56:51.172 HYPERVISOR: exec_cmd: hypervisor version 
+Oct 25 05:56:51.172 HYPERVISOR: exec_cmd: hypervisor working_dir /Users/kongxinyi/Desktop/点击打开小猪的世界/好好学习/计算机/专业课/计算机网络/实验/实验4/untitled/project-files/dynamips 
+Oct 25 05:56:51.172 GENERAL: working_dir=/Users/kongxinyi/Desktop/点击打开小猪的世界/好好学习/计算机/专业课/计算机网络/实验/实验4/untitled/project-files/dynamips
+Oct 25 05:56:51.173 HYPERVISOR: exec_cmd: ethsw create Switch2 
+Oct 25 05:57:48.441 HYPERVISOR: exec_cmd: nio create_udp udp-fe033a12-0d52-4ca5-abb2-c55286a9c61e 10004 127.0.0.1 10005 
+Oct 25 05:57:48.441 HYPERVISOR: exec_cmd: ethsw add_nio Switch2 udp-fe033a12-0d52-4ca5-abb2-c55286a9c61e 
+Oct 25 05:57:48.442 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-fe033a12-0d52-4ca5-abb2-c55286a9c61e 1 
+Oct 25 05:57:52.006 HYPERVISOR: exec_cmd: nio create_udp udp-c9916e3a-95e8-47a6-a737-7ac0ea81fd3c 10006 127.0.0.1 10007 
+Oct 25 05:57:52.006 HYPERVISOR: exec_cmd: ethsw add_nio Switch2 udp-c9916e3a-95e8-47a6-a737-7ac0ea81fd3c 
+Oct 25 05:57:52.012 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-c9916e3a-95e8-47a6-a737-7ac0ea81fd3c 1 
+Oct 25 05:58:07.597 HYPERVISOR: exec_cmd: nio create_udp udp-6290f2df-140c-4a64-b6e0-de46f96ce1c4 10013 127.0.0.1 10012 
+Oct 25 05:58:07.598 HYPERVISOR: exec_cmd: ethsw add_nio Switch2 udp-6290f2df-140c-4a64-b6e0-de46f96ce1c4 
+Oct 25 05:58:07.611 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-6290f2df-140c-4a64-b6e0-de46f96ce1c4 1 
+Oct 25 06:31:15.632 HYPERVISOR: exec_cmd: ethsw delete Switch2 
+Oct 25 06:31:15.702 HYPERVISOR: exec_cmd: hypervisor stop 
+Oct 25 06:31:16.000 HYPERVISOR: Stopped.
+Oct 25 06:31:16.000 GENERAL: reset done.
