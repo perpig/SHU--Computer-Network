@@ -23,5 +23,7 @@ download SHU的参考git中的报告，质量非常一般，不如看我的
 ### kxy实验
 这里面放着该门课的实验的代码，文件，报告等
 
-**特别注意**：实验二socket实验我才用QT+cpp完成一个项目，也才用了单纯cpp的方式，这个在个人主页有socket--code的项目（项目地址：https://github.com/perpig/Socket-code）
+**特别注意**：实验二socket实验我才用QT+cpp完成一个项目，也才用了单纯cpp的方式，这个在个人主页有socket--code的项目
+
+（项目地址：https://github.com/perpig/Socket-code ）
 
